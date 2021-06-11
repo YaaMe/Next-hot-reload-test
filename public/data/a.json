@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "player1",
+      "layerb": []
+    },
+    {
+      "id": 1,
+      "name": "player2",
+      "layerb": []
+    }
+  ]
+}
